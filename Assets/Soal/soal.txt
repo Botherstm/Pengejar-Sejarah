@@ -1,0 +1,336 @@
+Masa praaksara dimulai ketika manusia belum mengenal apa?
++Pertanian
++Perdagangan
++Tulisan
++Logam
++C
+#Masa praaksara di Indonesia berakhir sekitar abad ke berapa?
++5 M
++4 M
++7 M
++6 M
++A
+#Periode kehidupan praaksara yang paling awal dikenal dengan nama?
++Mesolitikum
++Neolitikum
++Paleolitikum
++Megalitikum
++C
+#Alat-alat dari batu kasar banyak ditemukan pada zaman?
++Neolitikum
++Paleolitikum
++Mesolitikum
++Megalitikum
++B
+#Salah satu peninggalan budaya zaman Neolitikum adalah?
++Kapak genggam
++Flakes
++Kapak persegi
++Kapak lonjong
++C
+#Ciri utama dari zaman Mesolitikum adalah penggunaan alat dari?
++Logam
++Kayu
++Batu yang sudah diasah
++Batu yang masih kasar
++D
+#Pada masa Neolitikum, manusia mulai mengenal?
++Berburu
++Bercocok tanam
++Bertani
++Bertukang
++B
+#Hasil kebudayaan Megalitikum yang berfungsi sebagai tempat pemujaan adalah?
++Dolmen
++Menhir
++Sarkofagus
++Punden berundak
++D
+#Apa yang dimaksud dengan zaman Paleolitikum?
++Zaman batu tua
++Zaman batu muda
++Zaman perunggu
++Zaman besi
++A
+#Ciri utama dari zaman Paleolitikum adalah:
++Penggunaan alat dari logam
++Hidup menetap di desa
++Hidup berburu dan meramu
++Pertanian dan peternakan
++C
+#Alat yang paling terkenal dari zaman Paleolitikum adalah:
++Kapak genggam
++Kapak lonjong
++Cangkul
++Pisau dari logam
++A
+#Perkembangan kehidupan sosial pada zaman Paleolitikum ditandai dengan:
++Hidup menetap di desa
++Hidup berkelompok di gua-gua
++Pertanian dan peternakan
++Perdagangan
++B
+#Penemuan penting pada zaman Paleolitikum adalah:
++Alat-alat dari logam
++Teknik pengolahan tanah
++Penemuan api
++Kapak lonjong
++C
+#Apa fungsi dari kapak genggam pada zaman Paleolitikum?
++Untuk bercocok tanam
++Sebagai alat serbaguna untuk berburu dan memotong
++Untuk membuat pakaian
++Sebagai alat perang
++B
+#Budaya apa yang berkembang pada zaman Paleolitikum?
++Budaya bercocok tanam
++Budaya laut
++Budaya berburu dan meramu
++Budaya industri
++C
+#Kepercayaan apa yang mulai muncul pada zaman Paleolitikum?
++Animisme dan dinamisme
++Monoteisme
++Ateisme
++Politeisme
++A
+#Hewan apa yang sering diburu pada zaman Paleolitikum?
++Ikan
++Mammoth
++Kerbau
++Burung
++B
+#Kehidupan ekonomi pada zaman Paleolitikum terutama bergantung pada:
++Perdagangan
++Pertanian
++Berburu dan meramu
++Peternakan
++C
+#Apa yang dimaksud dengan zaman Mezolitikum?
++Zaman batu muda
++Zaman batu tengah
++Zaman logam
++Zaman perunggu
++B
+#Ciri utama dari zaman Mezolitikum adalah:
++Penggunaan alat dari logam
++Hidup menetap di desa
++Hidup berburu dan meramu dengan alat-alat yang lebih maju
++Pertanian dan peternakan
++C
+#Alat yang paling terkenal dari zaman Mezolitikum adalah:
++Kapak genggam
++Mata panah dan serpih
++Cangkul
++Pisau dari logam
++B
+#Perkembangan kehidupan sosial pada zaman Mezolitikum ditandai dengan:
++Hidup menetap di desa
++Hidup semi-nomaden
++Pertanian dan peternakan
++Perdagangan
++B
+#Penemuan penting pada zaman Mezolitikum adalah:
++Alat-alat dari logam
++Teknik pengolahan tanah
++Peralatan dari tulang dan tanduk
++Kapak lonjong
++C
+#Apa fungsi dari alat serpih pada zaman Mezolitikum?
++Untuk bercocok tanam
++Sebagai alat serbaguna untuk memotong dan menguliti
++Untuk membuat pakaian
++Sebagai alat perang
++B
+#Budaya apa yang berkembang pada zaman Mezolitikum?
++Budaya bercocok tanam
++Budaya laut
++Budaya berburu dan meramu
++Budaya industri
++C
+#Kepercayaan apa yang mulai muncul pada zaman Mezolitikum?
++Animisme dan dinamisme
++Monoteisme
++Ateisme
++Politeisme
++A
+#Hewan apa yang sering diburu pada zaman Mezolitikum?
++Ikan
++Mammoth
++Kerbau
++Burung
++A
+#Kehidupan ekonomi pada zaman Mezolitikum terutama bergantung pada:
++Perdagangan
++Pertanian
++Berburu, meramu, dan menangkap ikan
++Peternakan
++C
+#Apa yang dimaksud dengan zaman Neolitikum?
++Zaman batu tua
++Zaman batu muda
++Zaman logam
++Zaman perunggu
++B
+#Perkembangan kehidupan sosial pada zaman Neolitikum ditandai dengan...
++Hidup berkelompok di gua-gua
++Kehidupan berburu dan meramu
++Hidup menetap dan membentuk desa-desa
++Penggunaan logam untuk alat sehari-hari
++C
+#Penemuan penting pada zaman Neolitikum yang membantu perkembangan pertanian adalah...
++Peralatan dari besi
++Teknik pengolahan tanah
++Alat-alat dari batu kasar
++Pembentukan masyarakat berburu
++B
+#Apa fungsi dari kapak lonjong pada zaman Neolitikum?
++Untuk berburu binatang
++Sebagai alat pertanian
++Untuk membuat pakaian
++Sebagai alat perang
++B
+#Budaya apa yang mulai berkembang pada zaman Neolitikum?
++Budaya logam
++Budaya bercocok tanam
++Budaya laut
++Budaya berburu
++B
+#Kepercayaan apa yang mulai muncul pada zaman Neolitikum?
++Animisme dan dinamisme
++Monoteisme
++Ateisme
++Politeisme
++A
+#Hewan apa yang mulai dijinakkan pada zaman Neolitikum?
++Harimau
++Kerbau
++Ikan
++Burung
++B
+#Kehidupan ekonomi pada zaman Neolitikum terutama bergantung pada:
++Perdagangan
++Pertanian dan peternakan
++Industri
++Perikanan
++B
+#Apa yang dimaksud dengan zaman Megalitikum?
++Zaman batu besar
++Zaman batu kecil
++Zaman logam
++Zaman perunggu
++A
+#Ciri utama dari zaman Megalitikum adalah:
++Penggunaan alat dari logam
++Hidup menetap di desa
++Penggunaan batu besar untuk bangunan
++Pertanian dan peternakan
++C
+#Alat yang paling terkenal dari zaman Megalitikum adalah:
++Kapak genggam
++Mata panah dan serpih
++Dolmen dan menhir
++Pisau dari logam
++C
+#Perkembangan kehidupan sosial pada zaman Megalitikum ditandai dengan:
++Hidup menetap di desa
++Hidup semi-nomaden
++Mendirikan bangunan batu besar untuk ritual dan pemujaan
++Perdagangan
++C
+#Penemuan penting pada zaman Megalitikum adalah:
++Alat-alat dari logam
++Teknik pengolahan tanah
++Peralatan dari tulang dan tanduk
++Bangunan batu besar seperti dolmen, menhir, dan sarkofagus
++D
+#Apa fungsi dari dolmen pada zaman Megalitikum?
++Untuk bercocok tanam
++Sebagai tempat pemujaan dan altar
++Untuk membuat pakaian
++Sebagai alat perang
++B
+#Budaya apa yang berkembang pada zaman Megalitikum?
++Budaya bercocok tanam
++Budaya laut
++Budaya membangun monumen batu besar
++Budaya industri
++C
+#Kepercayaan apa yang mulai muncul pada zaman Megalitikum?
++Animisme dan dinamisme
++Monoteisme
++Ateisme
++Politeisme
++A
+#Monumen batu besar apa yang sering didirikan pada zaman Megalitikum?
++Pura
++Kuil
++Menhir
++Stupa
++C
+#Kehidupan ekonomi pada zaman Megalitikum terutama bergantung pada:
++Perdagangan
++Pertanian dan peternakan
++Berburu dan meramu
++Peternakan
++B
+#Apa yang dimaksud dengan zaman Logam?
++Zaman batu
++Zaman batu besar
++Zaman di mana alat-alat dibuat dari logam
++Zaman perunggu
++C
+#Ciri utama dari zaman Logam adalah
++Penggunaan alat dari batu
++Hidup menetap di desa
++Penggunaan logam untuk membuat alat dan senjata
++Pertanian dan peternakan
++C
+#Alat yang paling terkenal dari zaman Logam adalah:
++Kapak genggam
++Mata panah dan serpih
++Kapak corong dan arca perunggu
++Pisau dari batu
++C
+#Perkembangan kehidupan sosial pada zaman Logam ditandai dengan:
++Hidup menetap di desa
++Hidup semi-nomaden
++Penggunaan logam untuk alat-alat sehari-hari
++Perdagangan
++C
+#Penemuan penting pada zaman Logam adalah:
++Alat-alat dari batu
++Teknik pengolahan tanah
++Peralatan dari tulang dan tanduk
++Penggunaan tembaga, perunggu, dan besi untuk membuat alat
++D
+#Apa fungsi dari kapak corong pada zaman Logam?
++Untuk bercocok tanam
++Sebagai alat serbaguna
++Untuk membuat pakaian
++Sebagai alat perang
++B
+#Budaya apa yang berkembang pada zaman Logam?
++Budaya bercocok tanam
++Budaya laut
++Budaya pembuatan alat dari logam
++Budaya industri
++C
+#Kepercayaan apa yang mulai muncul pada zaman Logam?
++Animisme dan dinamisme
++Monoteisme
++Ateisme
++Politeisme
++A
+#Alat logam apa yang sering digunakan pada zaman Logam?
++Batu
++Kayu
++Tembaga, perunggu, dan besi
++Tanah liat
++C
+#Kehidupan ekonomi pada zaman Logam terutama bergantung pada:
++Perdagangan dan kerajinan logam
++Pertanian dan peternakan
++Berburu dan meramu
++Peternakan
++A
